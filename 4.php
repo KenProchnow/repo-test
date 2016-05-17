@@ -1,12 +1,3 @@
 four
 
-and even more master
-and even more master
-and even more master
-and even more master
-and even more master
-and even more master
-and even more master
-and even more master
-and even more master
-and even more master
+these are added changes from master.
